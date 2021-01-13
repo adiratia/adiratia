@@ -9,6 +9,10 @@
 ### 🛠 &nbsp;Tech Stack
 
 - 🌐 &nbsp;
+  ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C)
+  ![C++]( https://img.shields.io/badge/-C++-333333?style=flat&logo=C++)
+  ![Python](https://img.shields.io/badge/-python-333333?style=flat&logo=Python)
+  ![Java](https://img.shields.io/badge/-java-333333?style=flat&logo=java)
   ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
