@@ -32,11 +32,7 @@
 
 
 ## My Stats
-<p>
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=adiratia&theme=radical&layout=compact&exclude_lang=java+r" />
-</a>
-</p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adiratia&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ##  🤝🏻 &nbsp;Connect with Me
