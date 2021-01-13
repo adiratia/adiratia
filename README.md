@@ -1,11 +1,9 @@
-### Hi there 👋
 
-## I'm Cameron.
+## I'm Adir.
 
 ### 💻 &nbsp;About Me 
-
-- 🤔 &nbsp; Exploring new technologies and developing software solutions to our worlds tech problems.
-- 🎓 &nbsp; Studying Software Engineering at Brigham Young University Idaho.
+- 🎓 &nbsp; I'm a fourth year software engineering student
+- 🤔 &nbsp; Looking for a junior position
 
 
 ### 🛠 &nbsp;Tech Stack
@@ -27,15 +25,6 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
 
-## Latest Articles
-<!-- BLOG-POST-LIST:START -->
-- [Nodejs Microservices](https://dev.to/cdthomp1/nodejs-microservices-jgh)
-- [Help With Mongoose](https://dev.to/cdthomp1/help-with-mongoose-2jp7)
-- [Open Source Opportunity!](https://dev.to/cdthomp1/open-source-opportunity-16ol)
-- [A Case for Serverless](https://dev.to/cdthomp1/a-case-for-serverless-5da7)
-- [Create your own NPM Card! Part 2](https://dev.to/cdthomp1/create-your-own-npm-card-part-2-3651)
-<!-- BLOG-POST-LIST:END -->
-
 ## My Stats
 <p>
 <a href="https://github.com/AVS1508">
@@ -48,9 +37,8 @@
 ##  🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://cameronthompson.io"><img src="https://img.shields.io/badge/-cameronthompson.io-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/cameron-thompson96"><img src="https://img.shields.io/badge/-Cameron%20Thompson-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:camthomp96@gamil.com"><img src="https://img.shields.io/badge/-camthomp96@gamil.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/adir-atia/"><img src="https://img.shields.io/badge/-Adir%20Atia-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:adir0305@gmail.com@gamil.com"><img src="https://img.shields.io/badge/-adir0305@gamil.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
 <!--
 **cdthomp1/cdthomp1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
