@@ -40,10 +40,7 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/adir-atia/"><img src="https://img.shields.io/badge/-Adir%20Atia-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:adir0305@gmail.com@gamil.com"><img src="https://img.shields.io/badge/-adir0305@gamil.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
- </p>
-<p align="center">
-![](https://komarev.com/ghpvc/?username=adiratia&color=green)
-</p>
+                                                        ![](https://komarev.com/ghpvc/?username=adiratia&color=green)
 
 <!--
 **cdthomp1/cdthomp1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
