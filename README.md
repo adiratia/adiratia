@@ -2,7 +2,7 @@
 ## I'm Adir.
 
 ### 💻 &nbsp;About Me 
-- 🎓 &nbsp; I'm a fourth year software engineering student
+- 🎓 &nbsp; I'm a Software Engineer
 - 🤔 &nbsp; Looking for a junior position
 
 
