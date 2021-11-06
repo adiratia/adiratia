@@ -2,16 +2,13 @@
 ## I'm Adir.
 
 ### 💻 &nbsp;About Me 
-- 🎓 &nbsp; I'm a Software Engineering Graduate
-- 🤔 &nbsp; Looking for a junior position
+- 🎓 &nbsp; I'm a Junior Software Engineer
 
 
 ### 🛠 &nbsp;Tech Stack
 
 - 🌐 &nbsp;
-  ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C)
-  ![C++]( https://img.shields.io/badge/-C++-333333?style=flat&logo=C++)
-  ![Python](https://img.shields.io/badge/-python-333333?style=flat&logo=Python)
+
   ![Java](https://img.shields.io/badge/-java-333333?style=flat&logo=java)
   ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
@@ -21,14 +18,8 @@
 - 🛢 &nbsp;
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
   ![SQL](https://img.shields.io/badge/-sql-333333?style=flat&logo=sql)
-  ![Firebase]( https://img.shields.io/badge/-firebase-333333?style=flat&logo=firebase)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-- 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Android Studio]( https://img.shields.io/badge/-android%20studio-333333?style=flat&logo=android%20studio)
-
 
 
 ## My Stats
