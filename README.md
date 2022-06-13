@@ -2,7 +2,7 @@
 ## I'm Adir.
 
 ### 💻 &nbsp;About Me 
-- 🎓 &nbsp; I'm a Junior Software Engineer
+- 🎓 &nbsp; I'm a Software Engineer
 
 
 ### 🛠 &nbsp;Tech Stack
